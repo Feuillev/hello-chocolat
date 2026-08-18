@@ -1,3 +1,4 @@
 # hello-chocolat
-I like chocolate and  all garaterie
+I like chocolate and all garaterie
 with the other code do a game with the specifications of itself that i specify into
+use all the code source that I have to do a 2d game with a view of the character above
